@@ -6,4 +6,4 @@
 
 [assingment week 5](https://github.com/Nienked98/assignments/blob/master/Assignment_week_5.ipynb)
 
-[assingment week 6](https://github.com/Nienked98/assignments/blob/master/assignment4%20(!).ipynb) 
+[assingment week 6](https://github.com/Nienked98/assignments/blob/master/assignment4%20(3).ipynb)
