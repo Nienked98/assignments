@@ -8,4 +8,4 @@
 
 [assingment week 6](https://github.com/Nienked98/assignments/blob/master/assignment4%20(3).ipynb)
 
-[assignement week 8](https://github.com/Nienked98/assignments/blob/master/assignment5.ipynb)
+[assignment week 8](https://github.com/Nienked98/assignments/blob/master/assignment5.ipynb)
