@@ -10,4 +10,4 @@
 
 [assignment week 8](https://github.com/Nienked98/assignments/blob/master/assignment5.ipynb)
 
-[final assignement R](https://github.com/Nienked98/assignments/blob/master/OECD_R_exam.ipynb)
+[final assignment R](https://github.com/Nienked98/assignments/blob/master/OECD_R_exam.ipynb)
