@@ -9,3 +9,5 @@
 [assingment week 6](https://github.com/Nienked98/assignments/blob/master/assignment4%20(3).ipynb)
 
 [assignment week 8](https://github.com/Nienked98/assignments/blob/master/assignment5.ipynb)
+
+[final assignement R] (https://github.com/Nienked98/assignments/blob/master/OECD_R_exam.ipynb)
